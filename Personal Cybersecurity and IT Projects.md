@@ -12,6 +12,8 @@ This repository contains a collection of personal projects related to cybersecur
   - Created and configured scan templates in Nessus
   - Conducted credentialed scans on multiple platforms
   - Developed a remediation plan prioritizing high-severity vulnerabilities
+ 
+
 
 ### 2. SIEM Implementation (Wazuh)
 - **Duration:** Nov 2023
@@ -22,6 +24,8 @@ This repository contains a collection of personal projects related to cybersecur
   - Aggregated data from various platforms for analysis and reporting
   - Implemented CIS Benchmark compliance assessment
 
+
+
 ### 3. OpenVAS Vulnerability Management
 - **Duration:** Sep 2023
 - **Objective:** Deploy and configure a containerized version of OpenVAS to conduct vulnerability scans against a home network.
@@ -30,6 +34,8 @@ This repository contains a collection of personal projects related to cybersecur
   - Conducted both credentialed and non-credentialed scans
   - Gained insights into monitoring and defending endpoints
   - Planned implementation of logging solution (e.g., Graylog)
+
+
 
 ### 4. MacOS Vulnerability Management
 - **Duration:** Sep 2023
