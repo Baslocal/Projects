@@ -1,4 +1,4 @@
-# Personal Cybersecurity and IT Projects
+# Personal Cybersecurity and IT Projects Overview
 
 This repository contains a collection of personal projects related to cybersecurity, network management, and IT infrastructure. These projects were undertaken to enhance skills, explore new technologies, and implement practical solutions in a homelab environment.
 
