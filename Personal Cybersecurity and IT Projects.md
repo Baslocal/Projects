@@ -1,7 +1,6 @@
 # Overview Personal Cybersecurity and IT Projects 
 
-This repository contains a collection of personal projects related to cybersecurity, network management, and IT infrastructure. 
-
+This is an overivew of all projects I've successfully implementated over the years.
 ## Projects
 
 ### 1. Nessus Credentialed Patch Audit
@@ -110,4 +109,4 @@ This repository contains a collection of personal projects related to cybersecur
 
 ## Note
 
-These projects were conducted in a controlled homelab environment for educational and skill-development purposes. No actual systems or networks were compromised in the process.
+This was done in my Homelab no machines were hurt in the making of the listed project :)
